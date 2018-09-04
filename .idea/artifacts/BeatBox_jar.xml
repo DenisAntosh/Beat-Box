@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BeatBox:jar">
+    <output-path>E:/</output-path>
+    <root id="archive" name="BeatBox.jar">
+      <element id="module-output" name="BeatBox" />
+    </root>
+  </artifact>
+</component>
